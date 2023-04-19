@@ -1,0 +1,24 @@
+[INFO ] 2023-03-21 22:05:54.569 [main] UserTests2 - ******Creating User**********
+[INFO ] 2023-03-21 22:05:57.525 [main] UserTests2 - **********User Created**********
+[INFO ] 2023-03-21 22:05:57.541 [main] UserTests2 - *********Reading User Info**********
+[INFO ] 2023-03-21 22:05:57.826 [main] UserTests2 - **********Updating User**********
+[INFO ] 2023-03-21 22:05:58.249 [main] UserTests2 - **********Deleting User*********
+[INFO ] 2023-03-21 22:07:58.129 [main] UserTests - ******Creating User**********
+[INFO ] 2023-03-21 22:08:03.791 [main] UserTests - **********User Created**********
+[INFO ] 2023-03-21 22:08:03.807 [main] UserTests - *********Reading User Info**********
+[INFO ] 2023-03-21 22:08:04.478 [main] UserTests - **********Updating User**********
+[INFO ] 2023-03-21 22:08:04.942 [main] UserTests - **********Deleting User*********
+[INFO ] 2023-03-21 22:09:30.276 [main] UserTests2 - ******Creating User**********
+[INFO ] 2023-03-21 22:09:34.005 [main] UserTests2 - **********User Created**********
+[INFO ] 2023-03-21 22:09:34.027 [main] UserTests2 - *********Reading User Info**********
+[INFO ] 2023-03-21 22:09:34.543 [main] UserTests2 - **********Updating User**********
+[INFO ] 2023-03-21 22:09:35.613 [main] UserTests2 - **********Deleting User*********
+[INFO ] 2023-03-21 22:18:20.068 [main] UserTests - ******Creating User**********
+[INFO ] 2023-03-21 22:18:20.168 [main] UserTests - *********Reading User Info**********
+[INFO ] 2023-03-21 22:18:20.184 [main] UserTests - **********Updating User**********
+[INFO ] 2023-03-21 22:18:20.184 [main] UserTests - **********Deleting User*********
+[INFO ] 2023-03-21 22:30:57.922 [main] UserTests - ******Creating User**********
+[INFO ] 2023-03-21 22:31:01.101 [main] UserTests - **********User Created**********
+[INFO ] 2023-03-21 22:31:01.101 [main] UserTests - *********Reading User Info**********
+[INFO ] 2023-03-21 22:31:01.348 [main] UserTests - **********Updating User**********
+[INFO ] 2023-03-21 22:31:01.818 [main] UserTests - **********Deleting User*********

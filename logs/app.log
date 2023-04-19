@@ -1,0 +1,9 @@
+[INFO ] 2023-04-14 11:17:48.791 [TestNG-test=Pet Store-1] UserTests - ******Creating User**********
+[INFO ] 2023-04-14 11:17:52.324 [TestNG-test=Pet Store-2] UserTests2 - **********User Created**********
+[INFO ] 2023-04-14 11:17:52.340 [TestNG-test=Pet Store-2] UserTests2 - *********Reading User Info**********
+[INFO ] 2023-04-14 11:17:52.525 [TestNG-test=Pet Store-1] UserTests - **********User Created**********
+[INFO ] 2023-04-14 11:17:52.525 [TestNG-test=Pet Store-1] UserTests - *********Reading User Info**********
+[INFO ] 2023-04-14 11:17:52.540 [TestNG-test=Pet Store-2] UserTests2 - **********Updating User**********
+[INFO ] 2023-04-14 11:17:53.042 [TestNG-test=Pet Store-1] UserTests - **********Updating User**********
+[INFO ] 2023-04-14 11:17:53.358 [TestNG-test=Pet Store-1] UserTests - **********Deleting User*********
+[INFO ] 2023-04-14 11:17:54.075 [TestNG-test=Pet Store-2] UserTests2 - **********Deleting User*********

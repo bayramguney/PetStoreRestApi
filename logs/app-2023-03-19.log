@@ -1,0 +1,15 @@
+[INFO ] 2023-03-19 22:41:09.952 [main] UserTests - ******Creating User**********
+[INFO ] 2023-03-19 22:41:13.008 [main] UserTests - **********User Created**********
+[INFO ] 2023-03-19 22:41:13.024 [main] UserTests - *********Reading User Info**********
+[INFO ] 2023-03-19 22:41:13.309 [main] UserTests - **********Updating User**********
+[INFO ] 2023-03-19 22:41:13.710 [main] UserTests - **********Deleting User*********
+[INFO ] 2023-03-19 22:41:45.216 [main] UserTests - ******Creating User**********
+[INFO ] 2023-03-19 22:41:52.639 [main] UserTests - **********User Created**********
+[INFO ] 2023-03-19 22:41:52.655 [main] UserTests - *********Reading User Info**********
+[INFO ] 2023-03-19 22:41:52.855 [main] UserTests - **********Updating User**********
+[INFO ] 2023-03-19 22:41:53.210 [main] UserTests - **********Deleting User*********
+[INFO ] 2023-03-19 22:45:49.252 [main] UserTests - ******Creating User**********
+[INFO ] 2023-03-19 22:45:55.681 [main] UserTests - **********User Created**********
+[INFO ] 2023-03-19 22:45:55.696 [main] UserTests - *********Reading User Info**********
+[INFO ] 2023-03-19 22:45:55.897 [main] UserTests - **********Updating User**********
+[INFO ] 2023-03-19 22:45:56.282 [main] UserTests - **********Deleting User*********
